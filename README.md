@@ -1,5 +1,8 @@
 RockMagPlot 1.0
 
+==== Feedback ====
+yaroslav1982@mail.ru
+
 ==== Description of files ====
 "RockMagPlot-1_0" folder:
 0-J_M_style.csv - file with style for visualization of *.j_m measurement files
