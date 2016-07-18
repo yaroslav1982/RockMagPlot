@@ -19,19 +19,20 @@ RockMagPlot.gms - Global Macro Storage for RockMagPlot.
 RockMagPlot-setup.exe - insallation file for RockMagPlot.
 GMSfolder.vbs, Create_panel.vbs, Delete_panel.vbs - script files to install/uninstall the program.
 
+RockMagPlot has been tested to work with CorelDRAW 16.
 
 
 ==== Working with program ====
-
-Installation and running program
 Run RockMagPlot-setup.exe. Administrator priviledges in Windows 7 or later versions are needed. Press "Copy files", then "Create Panel".
 Launch CorelDraw. Make sure that "RockMagPlot" toolbar is visible and user may run macros.
 
 
-Working with *.j_m files 
+Working with *.j_m files
+
 Press "Open" button on "RockMagPlot" toolbar. Pressing "Open J_M file and select *.j_m file (e.g. 221-EK11.j_m).
 Wait while data processing, then select element from listbox in "List of Plots" window and press "Auto" button. User can change plot parameters in "Drafting" window.
 	
 Working with *.csv files 
+
 Press "Open" button on "RockMagPlot" toolbar. Pressing "Open CSV file and select *.csv file (e.g. 221-EK11.csv).
 Wait while data processing, then press "Load style" button in "List of Plots" window, select element from listbox  and press "Drafting" button.
